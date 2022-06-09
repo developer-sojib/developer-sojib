@@ -1,4 +1,4 @@
-[![MasterHead]([https://media-exp1.licdn.com/dms/image/C4E16AQE1Ze_dQIOXFg/profile-displaybackgroundimage-shrink_350_1400/0/1638044720690?e=1645056000&v=beta&t=EyohcTgQJCuqUxzqpBKfidP0v2cnHZFXq8VWjmaZba0](https://media-exp2.licdn.com/dms/image/C5616AQEEmVTjJ1s_Zg/profile-displaybackgroundimage-shrink_350_1400/0/1648497073476?e=1660176000&v=beta&t=8KzatICLxenagqSVyU5BsW3oSJqkZ-Z_wYpgxg82n5Y))](https://developersojib.netlify.app/)
+[![MasterHead][(https://media-exp2.licdn.com/dms/image/C5616AQEEmVTjJ1s_Zg/profile-displaybackgroundimage-shrink_350_1400/0/1648497073476?e=1660176000&v=beta&t=8KzatICLxenagqSVyU5BsW3oSJqkZ-Z_wYpgxg82n5Y)](https://developersojib.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Abdul Awal Sojib</h1>
 <h3 align="center">A passionate Junior MERN Stack developer from Sylhet, Bangladesh</h3>
